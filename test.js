@@ -30,4 +30,4 @@ test(bb //传值
     ,dd);//传引用的值
 
 console.log("bb is " + bb);
-console.log("dd is " + JSON.stringify(dd)
+console.log("dd is " + JSON.stringify(dd));
